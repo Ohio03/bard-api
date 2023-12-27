@@ -12,7 +12,7 @@ In its own description, Bard is a “large language model, also known as a conve
 
 To use the Bard-API-Node library in your project, you can install it via npm directly:
 ```
-npm install bard-api-node
+npm install @rehat666/bard-api
 ```
 ## Authentication
 To authenticate with the Bard API, you need to obtain the session value. Here's how you can get it:
