@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codenze/bard-api-node"
+    "url": "https://github.com/Ohio03/bard-api"
   },
   "scripts": {
-    "postinstall": "echo 'Thank you for installing bard-api-node! If you find this library useful, please consider giving it a star on GitHub: https://github.com/codenze/bard-api-node'"
+    "postinstall": "echo 'Thank you for installing @rehat666/bard-api! If you find this library useful, please consider giving it a star on GitHub: https://github.com/Ohio03/bard-api'"
   }
 }
