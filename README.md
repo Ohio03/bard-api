@@ -48,4 +48,4 @@ Make sure to replace `Your_Session_Value` with the actual value of your session 
 ## 📜 **License**
 - Don't sell my source code.
 - Don't claim my source code as your own.
-- bard-api created by rehat666/Ohio03.
+- bard-api created by rehat666 | Ohio03.
