@@ -45,11 +45,9 @@ testAssistant();
 ```
 Make sure to replace `Your_Session_Value` with the actual value of your session obtained from the Bard website.
 
-## ✨ **Copyright (C)**
-- **[rehat666 (Ohio03)](https://github.com/Ohio03)**
-
 ## 📜 **License**
 - Don't sell my source code.
 - Don't claim my source code as your own.
+- bard-api created by rehat666/Ohio03 do not clam it your own project.
 
 **Thanks for using my project**
