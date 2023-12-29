@@ -18,7 +18,7 @@ npm install @rehat666/bard-api
 To authenticate with the Bard API, you need to obtain the session value. Here's how you can get it:
 
 1. Visit https://bard.google.com/.
-2. Open the browser console by pressing F12 for phones use (EditThisCookie) Extension.
+2. Open the browser console by pressing F12 for phones use (Edit This Cookie) Extension.
 3. Go to the "Application" tab.
 4. Under "Cookies", find the cookie named `__Secure-1PSID` or `__Secure-3PSID`.
 5. Copy the value of the cookie, which will be your session value.
